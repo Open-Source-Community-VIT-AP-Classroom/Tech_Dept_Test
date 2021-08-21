@@ -1,14 +1,5 @@
 ## Q1:
-Write A Program to identify in a Gathering of 'N' Persons If there is a person who doesn't know anyone. On the Contrary, all the persons in the gathering should know him.  
-Consider The following **Test case:**  
-**Input Matrix:**  
-
-{ {0,0,1,0},  
- {0,0,1,0},  
- {0,0,0,0},  
- {0,0,1,0} }  
- 
- Now the Output You should Get is: **2**
+Write a program in Python to read the file named **uteeF.txt**, and decode the message based on the UTF-8 format.
 ## Q2:
 
 There can be N pairs of petrol pumps in a range of 80kms of two companies, HP and Indian Oil (IO) arranged alternatively. Now Rearrange them in continuous order, picking up a pair each time.  
