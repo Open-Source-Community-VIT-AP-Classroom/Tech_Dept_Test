@@ -1,6 +1,5 @@
 ## Q1:
-** Use Java Programming to solve this question.**  
-Write A **Java Program** to identify in a Gathering of 'N' Persons If there is a person who doesn't know anyone. On the Contrary, all the persons in the gathering should know him.  
+Write A Program to identify in a Gathering of 'N' Persons If there is a person who doesn't know anyone. On the Contrary, all the persons in the gathering should know him.  
 Consider The following **Test case:**  
 **Input Matrix:**  
 
@@ -12,7 +11,6 @@ Consider The following **Test case:**
  Now the Output You should Get is: **2**
 ## Q2:
 
-**Use Python to solve this question**  
 There can be N pairs of petrol pumps in a range of 80kms of two companies, HP and Indian Oil (IO) arranged alternatively. Now Rearrange them in continuous order, picking up a pair each time.  
 Test Case:  
 Let n=4 (Number of pairs of Hp and Io)  
