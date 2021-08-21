@@ -26,8 +26,7 @@ Write a program in **Node.js** to Design a site that takes a Text Input from the
 
 # Bonus Questions:
 
-## Q1:  
-**Use Java to Solve this Question**  
+## Q1:    
 A particular application may require you to keep track of fish and other inhabitants of the ocean. You might have a Shark class, a Tuna class, a Porpoise class. Any behaviours that are common to several classes of animals should be specified in a superclass and inherited by its subclasses. For instance, all animals eat. So you could have an Animal superclass that declares a method for eating. Animal should be an abstract class, since any concrete animal you create will be of a specific animal subclass. There are two kinds of animals, those that move around in the ocean and those that do not. It makes sense to abstract the behaviour of Swimming for a subclass of Animals. So you could have an abstract subclass of the Animal class. Note that the Swimmer class does not have to code the eat method, since Swimmer is abstract. But any concrete class (i.e., a class that you want to create an instance of) that extends Swimmer must implement both eat and swim. Implement the java program for this scenario with the appropriate data members and member functions.  
 
 **Output:**  
@@ -39,8 +38,7 @@ The Tuna eats seaweed
 The porpoise is Swimming  
 The porpoise eats small fishes  
 
-## Q2: 
-**Use Python to Solve this Question**  
+## Q2:   
 Define a new exception, called ExceptionLineTooLong, that prints out the error message "The String is Too Long". Write a program that reads all user entered string message and throws a exception of type ExceptionLineTooLong in the case where a string is longer than 80 Characters. Handle aslo all exceptions, that could be thrown by the program.  
 
 **Sample Output:**
