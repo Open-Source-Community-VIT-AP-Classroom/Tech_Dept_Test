@@ -23,7 +23,11 @@ Hp Hp Hp Hp Io Io Io Io  (need to take them in pairwise only)
 
 ## Q3:  
 
-Design Your Profile Site Using **ReactJS Framework**
+Design Responsive card grid as given shown in image below Using **ReactJS Framework**. Data for cards should be passed **dynamically from useState or .json file**
+
+![image](https://user-images.githubusercontent.com/70259716/130324602-fc865880-1be1-450f-8666-485b84f242b0.png)
+
+
 
 ## Q4:
 
