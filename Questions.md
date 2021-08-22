@@ -7,6 +7,8 @@ Its okay if you are not able to solve it completely, show us your talent by atle
 ### Task-1 (15 Points):
 - Write a program in **Python** to decode the secret message in '[secret.txt](https://github.com/Open-Source-Community-VIT-AP-Classroom/Tech_Dept_Test/blob/main/secret.txt)' file, a small hint: The encoding was done using base64 encoder 😉.
 
+#### **Note:** Don't Use **`Encode`** Function.
+
 ### Task-2 (20 points):
 
 - There can be N pairs of petrol pumps in a range of 80kms of two companies, HP and Indian Oil (IO) arranged alternatively. Now Rearrange them in continuous order, picking up a pair each time. 
