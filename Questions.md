@@ -5,7 +5,7 @@
 Its okay if you are not able to solve it completely, show us your talent by atleast attempting these questions. You can use any preferred programming language to answer the questions which are not restricted to any other programming language.
 
 ### Task-1 (15 Points):
-- Write a program in **Python** to decode the secret message in 'secret.txt' file, a small hint: The encoding was done using base64 encoder 😉.
+- Write a program in **Python** to decode the secret message in '[secret.txt](https://github.com/Open-Source-Community-VIT-AP-Classroom/Tech_Dept_Test/blob/main/secret.txt)' file, a small hint: The encoding was done using base64 encoder 😉.
 
 ### Task-2 (20 points):
 
