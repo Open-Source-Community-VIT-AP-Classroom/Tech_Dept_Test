@@ -7,12 +7,12 @@ Make sure that you have completed the **Git Test** as it is a crucial test for a
 ### The rules:
 1. Don't copy your answers from somewhere, you can take reference but no copying.
 2. You are free to refer resources from online to learn and implement your solutions.
-3. You are only supposed to answer the `Tasks-5&6 ` if and only if you have completed or attempted all the questions of `Task-1,3,4`.
-4. The points don't matter, points are numbers to increase your motivation so don't get fixated on gathering only the points.
-5. We will let you know if you have qualified this technical programming round 👍.
-6. Try to attempt all the questions😉.
-7. Finally, obey all the rules !
+3. The points don't matter, points are numbers to increase your motivation so don't get fixated on gathering only the points.
+4. We will let you know if you have qualified this technical programming round 👍.
+5. Try to attempt all the questions😉.
+6. Finally, obey all the rules !
+7. Please Upload the Answer of Each Task Under their Respective Folder  
 
-If you have read all the above contents, then you can proceed to the question page, [click here to see your questions](https://github.com/Open-Source-Community-VIT-AP-Classroom/Tech_Dept_Test/blob/main/Questions.md).
+If you have read all the above contents, then you can proceed to the question page, [click here to see your questions](https://github.com/Open-Source-Community-VIT-AP-Classroom/Tech_Dept_Test).
 
 You can ask any queries related to this test or about recruitment in our Discord Server: https://discord.link/oscvitap 
