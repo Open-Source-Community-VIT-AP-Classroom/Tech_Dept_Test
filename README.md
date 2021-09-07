@@ -7,7 +7,7 @@ Make sure that you have completed the **Git Test** as it is a crucial test for a
 ### The rules:
 1. Don't copy your answers from somewhere, you can take reference but no copying.
 2. You are free to refer resources from online to learn and implement your solutions.
-3. You are only supposed to answer the `Bonus Section` if and only if you have completed or attempted all the questions in the `Main Section`.
+3. You are only supposed to answer the `Tasks-5&6 ` if and only if you have completed or attempted all the questions of `Task-1,3,4`.
 4. The points don't matter, points are numbers to increase your motivation so don't get fixated on gathering only the points.
 5. We will let you know if you have qualified this technical programming round 👍.
 6. Try to attempt all the questions😉.
